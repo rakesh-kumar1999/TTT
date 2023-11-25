@@ -1,0 +1,10 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #7d5315;
+    color: white;
+    height: 112px;
+}
